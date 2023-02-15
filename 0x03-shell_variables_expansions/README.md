@@ -1,1 +1,1 @@
-script that present 128 -vaule store
+script prints power and divide
