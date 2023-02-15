@@ -1,1 +1,1 @@
-script prints two decimal places followed by a new line
+script thst creates alias
