@@ -1,1 +1,1 @@
- print hel world followed by a newline standard output
+script that prints hello world
