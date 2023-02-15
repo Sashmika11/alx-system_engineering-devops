@@ -1,1 +1,1 @@
-script print results additional of 128 value
+script convert numbers from base 2 to base 10
