@@ -1,1 +1,1 @@
-script print combination letters to oo
+script prints two decimal places followed by a new line
