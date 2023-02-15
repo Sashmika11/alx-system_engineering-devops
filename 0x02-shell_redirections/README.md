@@ -1,1 +1,1 @@
-write a script that prints hello world
+ print hel world followed by a newline standard output
