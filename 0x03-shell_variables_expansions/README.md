@@ -1,1 +1,1 @@
-script prints power and divide
+script print results additional of 128 value
