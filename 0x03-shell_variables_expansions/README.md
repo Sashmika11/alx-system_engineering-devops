@@ -1,1 +1,1 @@
-script convert numbers from base 2 to base 10
+script print combination letters to oo
