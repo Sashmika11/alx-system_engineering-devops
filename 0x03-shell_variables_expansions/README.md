@@ -1,1 +1,1 @@
-script listing enviroment variables
+script create new local variables 
