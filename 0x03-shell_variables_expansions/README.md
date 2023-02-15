@@ -1,1 +1,1 @@
-script create new global variables
+script that present 128 -vaule store
