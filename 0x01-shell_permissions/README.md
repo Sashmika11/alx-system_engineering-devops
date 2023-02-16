@@ -1,1 +1,1 @@
-(3)write a script that prints out the effective user of the current user (4)
+script that prints the effective username of the current user.
