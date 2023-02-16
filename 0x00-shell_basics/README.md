@@ -1,1 +1,1 @@
-script that create directory name 
+move file betty to tmp
