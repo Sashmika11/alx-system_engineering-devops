@@ -1,1 +1,1 @@
-script creates directory called my_dir with permissions751 in the working directory
+ script that changes groups 
