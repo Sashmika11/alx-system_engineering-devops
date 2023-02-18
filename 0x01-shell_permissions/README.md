@@ -1,1 +1,1 @@
-script that plays starwars 
+script that plays star wars in terminal
